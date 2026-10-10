@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Daily Market Radio | Your 5-Minute Market Briefing</title>
+    <link>https://daily-market-radio-en.pages.dev/</link>
+    <atom:link href="https://mainichi-market-radio.github.io/daily-market-radio/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <copyright>© 2026 MISAWA SI AGENT</copyright>
+    <description><![CDATA[Every trading day, four short briefings: Wall Street (S&P 500, Nasdaq, Dow, Treasury yields), the Tokyo Stock Exchange, China and Hong Kong, and Europe. Every number is a closing price checked against public sources. Built for your commute.
+
+For educational and informational purposes only. Nothing in this show is investment, financial, legal or tax advice, or a recommendation to buy, sell or hold any security.
+Written with the help of AI and read by synthetic voices after the numbers are checked. Both hosts are fictional characters. Investing involves risk, including the possible loss of principal.]]></description>
+    <itunes:summary>Every trading day, four short briefings: Wall Street (S&amp;P 500, Nasdaq, Dow, Treasury yields), the Tokyo Stock Exchange, China and Hong Kong, and Europe. Every number is a closing price checked against public sources. Built for your commute.
+
+For educational and informational purposes only. Nothing in this show is investment, financial, legal or tax advice, or a recommendation to buy, sell or hold any security.
+Written with the help of AI and read by synthetic voices after the numbers are checked. Both hosts are fictional characters. Investing involves risk, including the possible loss of principal.</itunes:summary>
+    <itunes:author>MISAWA SI AGENT</itunes:author>
+    <itunes:owner><itunes:name>MISAWA SI AGENT</itunes:name><itunes:email>shoukai.jp@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://mainichi-market-radio.github.io/daily-market-radio/cover.jpg"/>
+    <image><url>https://mainichi-market-radio.github.io/daily-market-radio/cover.jpg</url><title>Daily Market Radio | Your 5-Minute Market Briefing</title><link>https://daily-market-radio-en.pages.dev/</link></image>
+    <itunes:category text="Business"><itunes:category text="Investing"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <managingEditor>shoukai.jp@gmail.com (MISAWA SI AGENT)</managingEditor>
+    <webMaster>shoukai.jp@gmail.com (MISAWA SI AGENT)</webMaster>
+    <itunes:email>shoukai.jp@gmail.com</itunes:email>
+    <podcast:locked owner="shoukai.jp@gmail.com">no</podcast:locked>
+    <lastBuildDate>Sat, 10 Oct 2026 19:54:45 +0900</lastBuildDate>
+
+  </channel>
+</rss>
